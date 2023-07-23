@@ -1,0 +1,141 @@
+if not exists while creating a table
+
+show create table <tableName>
+
+check constaint on the table
+
+In default constraint also null is considered as a value and will not pick default
+
+We can give a name to our constarint name
+
+### Do experiment with Foreign key ? Presense or not (Multiple Key)
+
+Financial Related Oracle will be there
+
+Real time app will be Postgress and mysql
+
+In company cost is the main thing
+
+Snowflake is widely used but Hive is currently HOT
+
+1 TB of CSV cannot be used in MYSQL for dump better use nosql
+
+
+Apart from this docker and flink 
+
+Hacker rank -> for practise
+
+https://datalemur.com/questions/uncategorized-calls-percentage
+
+Leet code for easy and medium
+
+Docker + Wareshousing + Schema concept + Nosql + kafka
+
+LONGTEXT understand its usecase with respect to rows
+
+**Add constraint  see how it will affect the existing data using alter
+
+*** Foreign Key Different use cases with and without its presense and its corelation with index
+
+
+No diff between count(*) and count(1) in terms of performance , it will just put a marker as * or as 1
+
+select * is not often recommened , use specific columns 
+
+** Order by two columns
+
+<> and != are not equal operators
+
+
+**** Group by is backbone of reporting
+
+We can print only those column in select where group by is applied and rest of columns we can do aggregation
+
+** NUll in group by  check that use case
+
+How do you use where clause with group by , (checking null)
+
+Group with having clause 
+
+-- group_concat works with String , order by with group_concat and seperator
+
+
+CASE WHEN STATEMENT 2:43
+
+.* for selecting all columns
+
+****Understand how mysql will execute multiple joins with where and group and having and order clause
+
+****Multiple means more than 3 tables (Flow goes from top to bottom)
+
+Update command can be used with Join 
+
+using match in left join
+
+
+COMMIT and rollback ; log file also explore
+
+Primay key will be indexed by default
+
+Self join example we can say is Keka Hierachial Team structure
+
+Group with rollup
+
+coalesce
+
+join with group by try examples
+
+on delete cascade
+
+left join is hot for analytics
+
+
+use rollback while writing stored procedure
+
+update can be rollback
+
+join ordering is imp (depicting the output) and transferring the data from one join to another
+
+
+Rank , row number and dense rank ask what will happen in case of tie
+
+Just think UPSE and IIT how they do the ranking
+
+Top rank from each dept , top two ranks etc
+
+Multiple group by level
+
+firstValue , lastValue , lag and lead
+
+following , preceeding and 3 other types
+
+RANGE BETWEEN
+
+weekkly sum means consider the date which is lying within the week
+
+With clause
+
+Recursive CTE
+
+Hierarchy query apart from self join with recursive
+
+ALL, ANY , EXISTS  , NOT EXISTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

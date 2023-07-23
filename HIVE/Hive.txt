@@ -1,0 +1,113 @@
+
+
+DAG , DSA will be used in Spark as well as Hive
+
+DAG will be used for query execution plan
+
+Redshift 16 mins 50 GB , Hive 3 hours
+
+Ultimate thing is cost
+
+Fintect , local data center
+
+Hive is open source it is free, use Hive for batch , it is really good for batch
+
+Amazon EMR , with Hive if time is not a constraint
+
+Use multiple optimizations practices of the  HIVE
+
+S3 as a data lake
+
+Hive works on schema on read not write 
+
+Hive load is similar to hdfs put
+
+Till 24 hour we can retrive the data from hive if dropped
+
+Hive will be for batch processing not stream processing
+
+Snowflake is much powerful solution for hive
+
+We need to maintain the duplicacy of the data for integrety constraint
+
+No foreign and primay key part in hive
+
+No update is possible
+
+Select
+
+CSV
+
+Array 
+
+MAP
+
+Ask proper question before start designing pipeline
+
+
+Mongo uses Binary storage , grpc uses binary storage
+
+For network transfer , we need serialization
+
+
+Explore binary storage where all we can apply
+
+ -> that means mongo will have Serialization
+
+ In case we dont do serialization then for sure data will occupy more bytes
+
+
+ A good thing to look will be the serializer code and then compare with grcp
+
+ Mostly Cassendra also will be using bits serialization
+
+ Will the disk reader hop will be for SSD also or only for HDD? Disk seek for that lever
+
+ORC works best with HIVE
+
+2 step process
+
+Like bloom filter when attending python DSA bootcamp see the techniques and come up with different approaches
+
+Each department means group by
+
+Use case daily data
+
+
+Look at the parser of Hive
+
+
+Partationing and bucketing should be used together for best case
+
+Bucketing can be done on UUID column as well so that hash value will be diff
+
+Largest table should be present in left hand side in inner join
+
+
+Sorted merge bucket is sort two arrays with two pointer approach
+
+Concept of indexing is not there in hive
+
+Power BI connector to Hadoop check , redshift is also a data warehouse
+
+Normal join will include your reducer phase as well , with optimzed it will be done in the mapper phase as well
+
+Partitioning will help in reduced data scan
+
+See YARN to have an idea about the bucketing should be done or not with join query
+
+Bucketing will help in data sampling ~ Skewness
+
+
+
+
+
+
+
+
+
+
+
+
+
+

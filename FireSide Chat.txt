@@ -1,0 +1,55 @@
+Read from  online blogs and videos  from those who has written books
+
+Desiging data intensive application
+
+Learn Spark , SQL defacto
+
+Learn Scala , Python
+
+Github and blog post to show your work and open source 
+
+Start with batch processing
+
+Stream processing is what they like interviewers , show case in github
+
+Tell them in case also if you have not worked tell them you worked on stream processing show github.
+
+In industry people are doing batch processing  google , graph and others do stream be best in that
+
+Be good with batch and slowly if given a chance do stream processing
+
+Ask about what is the tech stack , promotion cycle in manager round
+
+Be good in software engineering
+
+Modular code , test driven development
+
+Growth Mindset
+
+Build connections in companies
+
+Make POC in both Java and python
+
+Learn LLD for clean code
+
+Local development , testing 
+
+Have version control in github as well for your project like how aravind carves out the branches
+
+Learn architecures and speak in public online showcase your work public
+
+Streaming source is kafka
+
+HLD for justifying the architecture, System Deisgn in terms of Data Science and Data Engineer
+
+Data pipiline for Pocket Reference
+
+Fundamentals of Data Enginnering
+
+
+list down companies
+
+As a principle data engineer or as a software engineer how u structure ur thoughts matters.
+
+Speak with caution
+

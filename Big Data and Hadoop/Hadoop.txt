@@ -1,0 +1,64 @@
+Horizontal and vertical scaling
+===================================
+
+In case there is a limit to the hardware capacity to a computer or commodity hardware that we cannot increase beyond a point.
+
+In vertical cloud also there will be same hardware used in interconnnected??
+
+Mysql relation with horizontal
+
+Kubernetes and Docker relation with Horizontal
+
+Iaas Terafform as a code
+
+Cluster with respect to microservice and data engineering in system design
+
+Amazon S3 and Azure Block are file system
+
+Hadoop is open source handed over to Apache foundation
+
+Same for kafka , Kubernetes also open source
+
+How hadoop is able to divide the block size to 128 MB
+
+
+Installing hadoop in the local using docker
+
+ML enginner role will be more close + MLOps
+
+
+HDFS is for batch data 
+
+AWS EMR and HIVE
+
+128 MB as a block size is a contiguas memory location
+
+Intermediate data gets stored in the External hard disk and not HDFS to avoid replication
+
+
+Each block = number of splits and that correspponds to one mapper task
+
+HDFS block is like contiguous memory location of 128 MB
+
+Partitioner works on the concept of hashing and sends to the corresponding reducer
+
+1 CPU core 1 block of data and 1 mapper task
+
+DAG in spark lets us starts from previous state for sure , due to RDD
+
+Combiner will do the local aggregation
+
+Amazon EMR
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+Do not confuse Spark Partition with Hive and Hadoop where there it will be key value based
+
+Analyise in a year how much data you will be processing
+
+Why Spark needs inbuilt DS and Hadoop also?
+
+Compiler Design for Query DSL
+
+SparkContext -> Why we create Context in almost everyFrameWork
+
+Driver Program will have scheduler code and etc
+
+JVM why this always comes into  picture
+
+
+Rember you executing index creation from laptop vs executing it on cmd line
+
+Why builder for creating spark.builder
+
+We can run it on Cassendra as well
+
+DAG data structure
+
+Apache Flink
+
+Kaggle go to there for dataset
+
+In case you want to solve a lot of problems with respect to the domain 
+
+RUNBOOK for showcasing your work
+
+Action will lead to the creation of the JOB with the RDD lineage 
+
+3 actions = 3 Jobs = 3 DAG
+
+Shuffling will lead to a new stage ( Transformation also)
+
+UC Berkley for database similarly find based on your interest
+
+1 partition = 1 CPU core
+
+Serialalized are more space efficient , this also uses JVM
+
+
+
+
+
+
+
+
+
+

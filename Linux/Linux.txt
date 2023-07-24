@@ -1,0 +1,55 @@
+RHEL is most popular in enterprise 
+
+Red hat
+
+Debium most stablitity
+
+LTS 
+
+UBUNTU Of debian family has most stable and more number of package support
+
+Widely used for clould deployment
+
+man command for learning about any command
+
+Scientific Linux
+
+/sbin/init (parent process)
+
+systemd -> initiates multiples process simontanelously at startup
+
+How SSD works and how it is different than the Hard disk
+
+Partitions reside on the disk
+
+FHS (File system hierachy) is almost same everywhere in linux
+
+Multitasking and multiprocessing
+
+Sleep modes switches off the hardwares and maintains the state and keep the state of the application on ram
+
+How ops team does the restart of the system??
+
+Chromium browser open source
+
+GNOME -> Most wide used GUI for linux across different distribution
+
+GUI is almost same from distribution to distribution
+
+Memory distribution for multiple users
+
+/usr/home/{username} for each user for each new user added
+
+Logging out kills the processses
+
+Red hat package manager -> rpm
+
+
+Linux uses UTC
+
+Network time protocol sets the time via internet
+
+2:04
+
+
+

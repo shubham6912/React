@@ -1,0 +1,71 @@
+Hadoop YARN is the best resource manager world wide
+
+RDD are immutable
+
+100 times faster than the hadoop
+
+Ultimately RDDs will get divided into partitions
+
+Difference between RDD and Data Frame
+
+Graphics -> Hierarchial
+
+Do not compare Spark of partition with that of Hive
+
+Like data was divided in blocks same way spark is diving the data in multiple chunks callled partitions.
+
+It is pure logical way 
+
+colease and repartition are two most important interview questions
+
+How we can achive parallism using spark?
+
+If we have already data in partioned way like hdfs for each block those many number of partitons will get created
+
+Similary we  have a concept of group partition in spark we can use that as well
+
+Lazy evaluation means untill an action is called data will not loaded into memory and no creation of the RDD will happen untill then
+
+1 task means execution of 1 partition on 1 core
+
+
+Job = Action = new DAG
+
+Creating new DAG means new action
+
+
+New stage will be on Wide partition not narrow with data shuffling
+
+
+Based on data that will come in year we need to plan the infrastructure
+
+How inmemory thing happens for YARN as a resource manager as spark is known for inmemory and YARN for data node resource allocation
+
+That means data node also will have ram?
+yes answerd in  Q & N a
+
+
+
+
+
+
+
+
+Lazy evaluation means untill an action is called data will not loaded into memory and no creation of the RDD will happen untill then
+
+1 task means execution of 1 partition on 1 core
+
+
+Mostly Spark is integrated with YARN.
+
+
+AutoScalable way is for realtime under kubernetes
+
+Kaggle for data set
+
+In github create architectural diagram as well as use run book to showcase your work.
+
+Spark Context every programming lanugae has a concept of Context.
+
+
+

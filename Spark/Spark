@@ -67,5 +67,43 @@ In github create architectural diagram as well as use run book to showcase your 
 
 Spark Context every programming lanugae has a concept of Context.
 
+Companies do data analysis for weeks 2 to 3 before starting the dev
+
+Data Skewness
+
+repartion and colease are two most important
+
+colease for writing multiple partion in one single file
+
+Where does heap memory gets stored in the JVM??
+
+Make a calculator for spark data execution
+
+How many executors will be created each node and their memory who will decide?
+
+90% time faliure will be of OOM for Executors faliure
+
+Schedulers and DAG data structures 
+
+Optimization we can do code side as well as configuration side
+
+Code and infra optimization should go hand in hand
+
+Try to experimemt on GCP with all the possible fine tuning .
+
+Cost saving things will always be benificial
+
+Spark dynamic allocation
+
+Kubernetes ,
+Docker
+
+Saving money in cloud
+
+Spark works best with Parquet file format.
+
+Like HIVE for ORC
+
+
 
 

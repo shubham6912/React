@@ -104,6 +104,19 @@ Spark works best with Parquet file format.
 
 Like HIVE for ORC
 
+5 core is recommened from spark in official documentataion,
+
+however it is not a compusion
+
+Off heap memory will be like for Garbage Collections and JVM
+
+
+
+
+
+
+
+
 
 
 

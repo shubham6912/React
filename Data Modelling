@@ -1,0 +1,43 @@
+I think for our use case Data Lake will be S3
+
+And Data Warehouse will be Amazon RedShift
+
+Example of Data Lake
+
+Amazon S3
+
+HDFS
+
+Azure Blob
+
+GCP Storage
+
+DataBricks
+
+=====================
+
+Amazon ETL is Amazon Glu
+
+Data Modelling may not be 100% accurate but assume and ask and learn
+
+They want to see how you think and process
+
+When using the app learn and think how they would be doing at the down
+
+pictorial representation of data model will be much helpful
+
+Credit Score for drivers on top of score
+
+Verge blogs
+
+Work on real world applications and think how you will do data modelling that is the real world insights
+
+Data Modelling is all about down the road the best possible analytical possibility that we can derive
+
+Amazon DMS -> CDC -> Kafka  
+
+Can Oracle Golden Gate be used for CDC?
+
+Relation of Nature with Computers
+
+Star and Galaxy 

@@ -1,0 +1,32 @@
+IPL
+COWIN
+Meeting
+Food Delivery
+Clothing
+Spotify
+Fintech
+IRCTC
+
+
+Youtube
+Careem
+With respect to HLD
+And data model
+
+
+Betting related apps
+new business model always explore
+
+Ask questions in the design interview
+
+IOT
+
+
+Apache Druid
+
+Flink
+
+
+No Analytical query means no Data Warehouse
+For reading Mongo DB will be good
+Visit the question hour for Data model design for 5th Aug

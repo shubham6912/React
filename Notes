@@ -1,0 +1,76 @@
+React JS
+
+Large scale frontend app
+
+VSCode use Emmet
+
+Html:5 
+
+Hello world using HTML , JS and , using CDN React
+
+What is CDN?
+
+What is cross origin ?
+
+Open the CDN link and see its at the end of the day is JS
+
+Go to console and write React
+
+Two diff CDN links since react Dom can be plugged only for browser
+Main file is react.development.js
+
+There is react native which works on mobile
+
+Which ever we need we can plug apart from react development js
+
+Type ReactDOM as well in console
+
+Write code for hello world React
+
+Put all your code in App.js file
+
+In browser the most expensive operation is DOM manipulation
+
+Why root element in react?
+
+React and other framework are ultimately optimising DOM manipulation
+
+Use attributes in createElement 
+
+Add a css file and make the h1 as red
+
+<link rel=“stylesheet” href=“./index.css”>
+
+Print using console.log(reactElement) you will see it is a react element
+
+When we call render then only react will inject the element in the DOM
+
+
+Parent , child , h1 tag using react
+
+console.log(parent)
+
+ReactElement (Object) => HTML (browser understands)
+
+Multiple siblings add more children
+
+Make two divs under child
+
+JSX exists
+
+Order of the files matter in JS as it is an interpreted language
+ 
+Why script tag is present in body and not head
+
+
+Difference between production and dev CDN links?
+
+Static content is being replaced  not appended
+
+Refresh your page fast
+ 
+Define header and footer and see as static if react will replace it or not
+
+React is a library not a framework it can work only at a portion of a webpage
+
+ ..

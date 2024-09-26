@@ -73,4 +73,87 @@ Define header and footer and see as static if react will replace it or not
 
 React is a library not a framework it can work only at a portion of a webpage
 
- ..
+
+Ignition our add
+
+npm init
+
+Complete all the steps
+
+package.json is a configuration for npm , it keeps a note of all the dependency we use
+
+We need bundler  to bundle the file and minify it 
+
+npm install -D parcel
+
+-D means dev
+
+Two types of dependency we can install
+
+Dev dependency - it means it is required in the dev phase
+
+Normal - it is required in the production phase as well
+
+"parcel": "^2.12.0" in npm package.json
+
+^ it means it will automatically install minor version
+
+~ means it will install the major version automatically
+
+A safe thing is to use ^ and not ~
+
+package-lock.json will keep  a record of exact version of the dependency that is installed 
+
+   "integrity": "sha512-dPNe2n9eEsKRc1soWIY0yToMUPirPIa2QhxcCB3Z5RjpDGIXm0pds+BaiqY6uGLEEzsjhRO0ujd4v2Rmm0vuFg==",
+   
+The integrity ensures that what is installed in my local the same version is being used in prod to avoid it works in my local but not in prod
+
+Transitive dependency
+
+parcel is dependenat on many other dependncy which is dependant on others 
+
+node_modules has the code of the all the trasnsitive depency
+
+Every module in node_module will have its own package.json
+
+If you have package and package-lock.json i can generate the node_modules
+
+using npm install
+
+https://www.npmjs.com/
+
+
+npx parcel index.html 
+
+
+npm is for installing  a package
+
+For executing package
+
+npx [packageName]
+
+CDN links is not a preffered way to get react better to keep it in node_modules as it is also a js lib
+
+npm install react
+
+npm install react-dom
+
+Speak about all the features of the parcel in system design interviews
+
+dist folder was having development code
+
+npx parcel build index.html
+
+https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
+
+"browserslist":[
+    "last 2 Chrome version",
+    "last 2 firefox version"
+  ]
+
+https://github.com/browserslist/browserslist#query-composition
+cover 99.5% in US
+
+
+
+

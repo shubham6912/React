@@ -16,7 +16,7 @@ All the React JS practise code
 - Diagnostic
 - Error Handling
 - HTTPS
-- Tree Shaking
+- Tree Shakingnpx parcel build index.html
 https://parceljs.org/
 
 

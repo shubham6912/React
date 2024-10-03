@@ -7,6 +7,7 @@ const heading= React.createElement("h1",{
 },"Hi From React");
 */
 
+// Practise of initial classes 
 
 const parent=React.createElement("div",{  id:"rootParent"},[
         React.createElement("div",{id:"child1"},[

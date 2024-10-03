@@ -154,6 +154,111 @@ https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
 https://github.com/browserslist/browserslist#query-composition
 cover 99.5% in US
 
+-------
+use scripts in package.json
+
+scripts
+"start": "parcel index.html"
+"build": "parcel build index.html"
+
+
+we can start using 
+
+npm run start
+npm run build
+
+for start as it is reserved we can use npm start
+
+
+
+The root.render will replace the existing html 
+
+If there is a bug a better way is to keep it Not Rendered by default 
+
+
+JSX is not HTML in JS
+
+JSX is HTML like or XML like syntax .
+
+
+JSX element and React Element both are same if we do console.log
+
+
+JSX code is transpiled before it reaches the JS engine 
+
+- means it is converted to a code that react / browser can understand - PARCEL - Babel
+
+JSX is converting it to React.createElement which is furthur converted to HTMLElement which is rendered into DOM.
+
+Use babel js website to see it
+
+Above is done by Babel 
+
+Use () for multiline JSX
+
+Extensions used
+
+Prettier code format extenstion
+
+Bracket Pair colorization
+
+ESLint
+
+Better comments
+
+Git lens
+
+//React components
+
+Two ways of creating component
+
+//Class based components OLD
+
+//Functional components NEW
+
+React functional component
+
+a react component should be with a capital letter
+
+const HeadingComponent =()=>{
+   
+};
+
+
+
+A React element can be converted to a component easliy with () and => and  by changing the variable name to Capital letter
+
+React composition is nothing but using a component inside another
+
+{} placed under a react functional component can execute any JavaScript inside it
+
+
+We can place the React Element inside a component using the {}
+
+Infinite loop if one requires another
+
+JSX will escape any CORS attack and sanitize the data which is passed in {} before running
+
+It is safe to use it if any api call response is being passed as {}
+
+data=apiCall.getResult();
+
+In a componenent if we are using {}
+{data}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
